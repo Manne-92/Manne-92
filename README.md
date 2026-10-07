@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Mahmoud 👋
 
-<!--
-**Manne-92/Manne-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fullstack .NET Student | C# & Web Development
 
-Here are some ideas to get you started:
+I'm currently studying Fullstack .NET development at Chas Academy in Sweden.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning by building real projects and improving my skills step by step.
+
+## 🚀 About Me
+
+- 🎓 Fullstack .NET student at Chas Academy
+- 💻 Focused on C# and .NET development
+- 🌐 Learning frontend, databases and modern web development
+- 🔭 Currently building **SS** — a private web project
+- 🌱 Continuously improving my Git and GitHub workflow
+- 🎯 Goal: Become a skilled Fullstack .NET Developer / Software Engineer
+
+## 🛠️ Tech I'm Working With
+
+`C#` `.NET` `HTML` `CSS` `JavaScript` `Git` `GitHub`
+
+## 📍 Based in
+
+Umeå, Sweden 🇸🇪
+
+---
+
+### Building. Learning. Improving.
